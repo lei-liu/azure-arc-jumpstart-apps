@@ -9,4 +9,4 @@ spec:
   - service: bookstore
     weight: 75
   - service: bookstore-v2
-    weight:25
+    weight: 25
